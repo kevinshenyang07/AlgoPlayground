@@ -1,6 +1,6 @@
 # AlgoPlayground
 
-### AudioFiler is an online platform that can execute and visualize BFS/DFS algorithms
+### AlgoPlayground is an online platform that can execute and visualize BFS/DFS algorithms.
 
 ## Background and Overview
 
@@ -19,18 +19,12 @@ Algorithm traversal methods have benefits and drawbacks some of which are not im
 
 ## Wireframes
 
-![index-page](wireframes/algosplash.png)
-
 Homepage displays all available algorithms along with brief descriptions.
-
-![show-page](wireframes/algocompare.png)
-
+![index-page](wireframes/algosplash.png)
 For the permutations and word ladder algorithms the show page will give in depth visualization of DFS and BFS.
-
+![show-page](wireframes/algocompare.png)
 ![show-page](wireframes/clonegraph.png)
-
 ![show-page](wireframes/palindrome.png)
-
 
 ## Technologies & Technical Challenges
   ##### Backend: Python/Django/AWS/PostgreSQL
